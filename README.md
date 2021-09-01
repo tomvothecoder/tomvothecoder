@@ -1,5 +1,4 @@
 ### Hi folks 👋
-
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomvothecoder&count_private=true&theme=dracula)
 
 Apparently, I commit a lot of CSS?
